@@ -1,0 +1,75 @@
+
+
+
+body{
+    margin-top: 0;
+    text-align: center;
+}
+
+
+.first-container{
+    background-color: #D6EFED;
+    padding: 100px;
+    position: relative;
+
+}
+
+.middle-container{
+    background-color: #D6EFED;
+    width: 100%;
+   
+}
+.bottom-container{
+    background-color: #D6EFED;
+    width: 100%;
+}
+
+
+/* ---------------------------- first .first-container----------------------*/
+
+
+.mountain{
+    width: 50%;
+    
+}
+.cloud-top{
+    width: 17%;
+    position: absolute;
+    top: 15px;
+    right: 15%;
+
+}
+.cloud-bottom{
+    position: absolute;
+    width: 17%;
+    top: 20%;
+    left: 15%;
+  
+}
+.profile-pic{
+    width: 30%;
+    left: 30%;
+}
+h1{
+    top: 0;
+    font-family: 'Sacramento', cursive;;
+    width: 100%;
+
+}
+h2{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+
+}
+h3{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+p{
+    font-size: 20px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    width: 100%;
+}
+span{
+    text-decoration: underline;
+}
+
+
